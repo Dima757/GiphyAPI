@@ -1,6 +1,6 @@
 #header {
-	background-color: #e50914;
-	color: #ffffff;
+	background-color: #094b81;
+	color: #f3e521;
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 15px;
@@ -23,7 +23,7 @@ label {
 	font-size: 18px;
 }
 
-#show {
+#btn {
 	margin-right: 5px;
 	margin-left: 5px;
 	margin-top: 5px;
@@ -42,7 +42,7 @@ label {
 	flex-wrap: wrap;
 }
 
-.netflixGiphy {
+.NBAGiphy {
 	padding: 2px;
 	width: 80%;
 }
