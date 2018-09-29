@@ -38,7 +38,7 @@ label {
 
 #gifArea {
 	clear: both;
-	display: inline;
+	display: inline-flex;
 	flex-wrap: wrap;
 }
 
