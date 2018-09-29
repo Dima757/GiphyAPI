@@ -9,7 +9,7 @@ $(document).ready(function() {
         var x = $(this).data("search");
         console.log(x);
     
-        var queryURL = "https://api.giphy.com/v1/gifs/search?api_key=Z7tW2Pe6jpXdjkDrtIQTrClmL4HXEgBa&q=&limit=10&offset=0&rating=PG-13&lang=en";
+        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + x + "&api_key=Z7tW2Pe6jpXdjkDrtIQTrClmL4HXEgBa&limit=10";
     
         console.log(queryURL);
     
